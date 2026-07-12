@@ -2,19 +2,61 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Top Essential Oils for Rodent Repellence](#top-essential-oils-for-rodent-repellence)
-  - [1. Peppermint Oil](#1-peppermint-oil)
-  - [2. Eucalyptus Oil](#2-eucalyptus-oil)
-  - [3. Clove Oil](#3-clove-oil)
-  - [4. Citronella Oil](#4-citronella-oil)
-  - [5. Cedarwood Oil](#5-cedarwood-oil)
-  - [6. Other Effective Oils](#6-other-effective-oils)
-  - [Application Methods](#application-methods)
-  - [Safety and Limitations](#safety-and-limitations)
+- [Rodent Protection](#rodent-protection)
+  - [Rat and Mouse Bait](#rat-and-mouse-bait)
+    - [Mouse Bait](#mouse-bait)
+    - [Rat Bait](#rat-bait)
+  - [Essential Oils for Repelling Rodents](#essential-oils-for-repelling-rodents)
+    - [1. Peppermint Oil](#1-peppermint-oil)
+    - [2. Eucalyptus Oil](#2-eucalyptus-oil)
+    - [3. Clove Oil](#3-clove-oil)
+    - [4. Citronella Oil](#4-citronella-oil)
+    - [5. Cedarwood Oil](#5-cedarwood-oil)
+    - [6. Other Effective Oils](#6-other-effective-oils)
+    - [Application Methods](#application-methods)
+    - [Safety and Limitations](#safety-and-limitations)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Top Essential Oils for Rodent Repellence
+# Rodent Protection  
+
+## Rat and Mouse Bait  
+
+This information comes from YouTube video 
+[WIPE OUT the Rats and Mice Around Your Home... Safe Around Pets](https://www.youtube.com/watch?v=RVNQnssFw-U) 
+published by [Elias Yoder](https://www.youtube.com/@EliasYoderAmish).
+These baits kill rodents because baking soda creates gas in the intestinal 
+tract, but rodents are unable to rid themselves of the gas by vomitting, 
+burping, or farting. The build up of gas kills them, but will not harm pets or 
+humans.     
+
+The base is two parts baking soda to one part cornmeal. The lure varies 
+between rats and mice. Rats prefer fat, while mice are drawn by sweetness. 
+
+Place the bait in a some small covering, like a box or coffee can, with a 
+hole of the appropriate size for the rodent. The container should be covered,
+dim and tight and needs to stay dry.  
+
+Place the container tight against the wall, never out in the middle of the 
+area. Be patient, especially with rats. They are wary creatures.   
+
+### Mouse Bait  
+
+1 cup baking soda  
+½ cup corn meal
+1 or 2 tablespoons of **honey, syrup, or molasses**  
+
+Mix it together until the dry ingredients are incorporated
+
+### Rat Bait
+
+1 cup baking soda  
+½ cup corn meal
+1 or 2 tablespoons of **beef tallow or lard**
+
+Mix it together until the dry ingredients are incorporated
+
+## Essential Oils for Repelling Rodents  
 
 Several **essential oils** have demonstrated effectiveness in repelling rodents
 like mice and rats due to their strong, overwhelming scents that disrupt the
@@ -28,7 +70,7 @@ The following oils are identified as the most effective natural deterrents,
 often working by masking attractant scents or creating an aversive sensory
 environment for rodents.
 
-## 1. Peppermint Oil
+### 1. Peppermint Oil
 
 Peppermint oil is widely considered the most effective and popular choice for
 repelling mice. Its high menthol content creates an intense aroma that rodents
@@ -38,7 +80,7 @@ option. For best results, soak cotton balls in the oil and place them in
 corners, cabinets, and near entry points, replacing them once the scent fades
 (approximately every week).
 
-## 2. Eucalyptus Oil
+### 2. Eucalyptus Oil
 
 Eucalyptus oil offers a sharp, fresh scent containing 1,8-cineole, which lingers
 longer on surfaces than many citrus oils. This camphoraceous aroma creates a
@@ -47,7 +89,7 @@ particularly effective when combined with other oils like peppermint or
 citronella to create a broader deterrent profile. Studies have confirmed its
 strong repellent effects against house rats and mice.
 
-## 3. Clove Oil
+### 3. Clove Oil
 
 Clove oil possesses a spicy, intense aroma that mice and rats strongly dislike,
 especially in concentrated doses. It is often used in conjunction with
@@ -56,7 +98,7 @@ not necessarily require dilution with water, but it should be used in
 well-ventilated areas due to its potency. It is a key ingredient in many
 commercial natural rodent repellent blends.
 
-## 4. Citronella Oil
+### 4. Citronella Oil
 
 While commonly known for repelling mosquitoes, citronella oil also serves as an
 effective deterrent against rodents due to its pungent citrus aroma. The strong
@@ -64,7 +106,7 @@ scent disrupts the olfactory preferences of mice and rats, making treated areas
 unattractive. It works well when placed near windows, doors, and basements,
 often soaked into cotton balls or used in a spray solution.
 
-## 5. Cedarwood Oil
+### 5. Cedarwood Oil
 
 Cedarwood oil provides a warm, woody aroma that is pleasant to humans but
 repelling to mice. It acts as a slow-releasing deterrent, lingering on surfaces
@@ -72,7 +114,7 @@ and fabrics longer than volatile mint or citrus oils, making it ideal for wooden
 baseboards and storage areas. Some formulations note that cedarwood can act
 toxically to rodents while serving as a fragrant barrier.
 
-## 6. Other Effective Oils
+### 6. Other Effective Oils
 
 Several other essential oils have shown repellent properties in various studies
 and anecdotal reports:
@@ -89,7 +131,7 @@ and anecdotal reports:
 * **Bergamot & Geranium Oil:** Scientific studies have ranked combinations of
   these oils as highly effective, sometimes surpassing single-oil applications.
 
-## Application Methods
+### Application Methods
 
 To maximize effectiveness, essential oils should be applied strategically rather
 than reactively. The most common method involves soaking cotton balls in the
@@ -103,7 +145,7 @@ cotton balls or sprays provide a more constant barrier. Reapplication is
 crucial; oils evaporate over time, so cotton balls should be replaced or sprays
 reapplied as soon as the scent fades, typically within a week.
 
-## Safety and Limitations
+### Safety and Limitations
 
 While essential oils are a safer, eco-friendly alternative to chemical
 pesticides, they have limitations and safety considerations. They primarily act

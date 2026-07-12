@@ -19,23 +19,23 @@ It works for normal grease and hair clogs and reducing build up inside pipes.
 
 ## Ingredients  
 
-* 1/2 cup 
-* 1/2 cup baking soda
-* 1/4 cup Pickling or coarse salt  
+* ½ cup 
+* ½ cup baking soda
+* ¼ cup Pickling or coarse salt  
 
 Clogged drains will also require  
-* 1/2 cup of white distilled vinegar (used separately)  
+* ½ cup of white distilled vinegar (used separately)  
 
 ## Instructions  
 
 1. Mix the dry ingredients in a glass Mason jar.   
 2. Seal the jar tightly.  
 3. Label the jar.  
-4. Store indefinately under the sink or in a pantry.  
+4. Store indefinitely under the sink or in a pantry.  
 
 ### Slow Drain (Maintenance)  
 
-1. Pour 1/2 cup of powder into a dry drain.  
+1. Pour ½ cup of powder into a dry drain.  
 2. Pour 1 cup boiling water slowly over the powder to activate the alkaline 
    reaction.
 3. Wait for at least 20 but up to 40 minutes, leaving the drain completely 
@@ -47,8 +47,8 @@ Clogged drains will also require
 ### Standing Water (Clogged) 
 
 1. Scoop out as much standing water as you can.  
-2. Pour 1/2 cup of powder into the dry drain.
-3. Pout 1/4 cup of distilled white vinegar over the powder.  
+2. Pour ½ cup of powder into the dry drain.
+3. Pout ¼ cup of distilled white vinegar over the powder.  
 4. Wait for at 30 minutes, leaving the drain completely
    undisturbed.  
 5. Flush with a full kettle of boiling water.  
