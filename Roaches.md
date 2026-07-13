@@ -3,12 +3,15 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Roaches](#roaches)
-  - [Homemade Roach Traps](#homemade-roach-traps)
-    - [Ingredients](#ingredients)
+  - [Borax Roach Traps](#borax-roach-traps)
+    - [Requited Materials](#requited-materials)
     - [Instructions](#instructions)
-  - [Lemon Water (for prevention)](#lemon-water-for-prevention)
-    - [Ingredients](#ingredients-1)
+  - [Boric Acid Roach Traps](#boric-acid-roach-traps)
+    - [Requited Materials](#requited-materials-1)
     - [Instructions](#instructions-1)
+  - [Lemon Water (for prevention)](#lemon-water-for-prevention)
+    - [Materials](#materials)
+    - [Instructions](#instructions-2)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -18,14 +21,61 @@ This information comes from YouTube video
 [Kill Cockroaches Fast with Aluminum Foil... CHEAP & SIMPLE!](https://www.youtube.com/watch?v=hHUJh68nBI)
 published by [Elias Yoder](https://www.youtube.com/@EliasYoderAmish).
 
-## Homemade Roach Traps  
+## Borax Roach Traps
 
-### Ingredients  
+Making roach bait with **Borax and sugar** is a highly effective, low-cost
+method where the **sugar acts as an attractant** and the **Borax serves as a
+slow-acting stomach poison** that dehydrates and kills the insect. The most
+critical factor for success is using **powdered sugar** instead of granulated,
+as roaches can separate larger granules from the poison, and ensuring the
+mixture remains **dry** to maintain potency.
+
+### Requited Materials
+
+* **Borax:** Commonly found in the laundry aisle (e.g., 20 Mule Team Borax).
+* **Powdered Sugar:** Also known as confectioners' sugar; essential because it
+  blends seamlessly with Borax so roaches cannot detect the poison.
+* **Water:** A small amount to bind the paste (optional, depending on the
+  method)
+* **Optional Attractants:** Cocoa powder, peanut butter, or bacon grease to
+  increase appeal
+* **Application Tools:** Small bottle caps, jar lids, or wax paper squares for
+  bait stations
+* **Safety Gear:** Disposable gloves
+
+### Instructions
+
+1. **Prepare the Mixture:** In a disposable bowl, combine **equal parts Borax
+   and powdered sugar** (e.g., 1/2 cup of each). If using cocoa powder for extra
+   attraction, mix it in now. Whisk thoroughly until the color and texture are
+   uniform.
+2. **Form the Paste:** Add water **drop by drop** (approx. 2–3 tablespoons
+   total) while stirring. Stop immediately once the mixture reaches a thick,
+   dough-like consistency similar to peanut butter; do not make it soupy or
+   runny.
+3. **Create Bait Stations:** Scoop small amounts (size of a pea or dime) of the
+   paste into bottle caps, jar lids, or onto small squares of wax paper. Roaches
+   prefer small, discrete food sources.
+4. **Strategic Placement:** Place the bait stations in **dark, warm, and moist
+   areas** where roaches travel, such as under sinks, behind refrigerators,
+   inside cabinet corners, and along baseboards. Ensure these spots are
+   **inaccessible to children and pets**.
+5. **Monitor and Maintain:** Check the baits every few days. Replace them if
+   they dry out, get moldy, or are consumed. You should see a significant
+   reduction in activity within **1 to 2 weeks** as the poison spreads through
+   the colony.
+6. **Clean Up:** Once the infestation is gone, vacuum up any remaining powder
+   and wipe down surfaces with a damp cloth to remove residue.
+
+## Boric Acid Roach Traps
+
+### Requited Materials
 
 * ½ cup white sugar  
 * 2 to 3 tablespoons of pure boric acid powder  
 * 1 tablespoon finely grated lemon peel (yellow part only)  
 * Aluminum foil  
+* Rubber or disposable gloves
 
 ### Instructions  
 
@@ -58,11 +108,11 @@ Replace them each year for preventive maintenance.
 
 ## Lemon Water (for prevention)  
 
-### Ingredients  
+### Materials  
 
 Juice of one lemon  
 2 cups warm water  
-1 teaspoon salt
+1 teaspoon salt (optional)
 
 ### Instructions  
 
