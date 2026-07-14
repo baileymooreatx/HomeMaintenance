@@ -17,11 +17,12 @@ This comes from YouTube video
 published by [Elias Yoder](https://www.youtube.com/@EliasYoderAmish). 
 It works for normal grease and hair clogs and reducing build up inside pipes.  
 
-## Ingredients  
+## Required Materials  
 
 * ½ cup 
+* ½ cup washing soda  
 * ½ cup baking soda
-* ¼ cup Pickling or coarse salt  
+* ¼ cup pickling or coarse salt  
 
 Clogged drains will also require  
 * ½ cup of white distilled vinegar (used separately)  
