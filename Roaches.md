@@ -17,7 +17,7 @@
 
 # Roaches  
 
-This information comes from YouTube video
+The Boric Acid Roach Traps and Lemon Water come from YouTube video
 [Kill Cockroaches Fast with Aluminum Foil... CHEAP & SIMPLE!](https://www.youtube.com/watch?v=hHUJh68nBI)
 published by [Elias Yoder](https://www.youtube.com/@EliasYoderAmish).
 
@@ -105,6 +105,45 @@ Boric acid is extremely caustic, so wear gloves and don't breathe the powder.
 Leave the bait packets alone. It will take 1 to 4 weeks to kill the colonies.   
 Replace them every 3 to 4 months if the problem persists.  
 Replace them each year for preventive maintenance.  
+
+Besides sugar, several other **natural ingredients** effectively attract roaches due to their strong scents and nutritional value (proteins, fats, and starches). The most potent attractants often mimic **fermenting, greasy, or decaying organic matter**, which roaches seek out in the wild.
+
+## Top Natural Attractants
+
+* **Beer and Alcohol**  
+  Roaches are highly attracted to the **yeast and fermentation** scent in 
+  beer. It is particularly effective for trapping American cockroaches. You can 
+  use a small amount of flat beer in a jar trap or mix it with Borax to 
+  create a liquid bait. The strong aroma travels well, drawing roaches from a 
+  distance.  
+* **Onions and Garlic**  
+  The pungent sulfur compounds in **onions and garlic** are irresistible to 
+  roaches. Dicing up an onion and mixing it with baking soda or Borax creates a 
+  powerful bait. The strong smell masks the poison effectively, ensuring 
+  roaches consume the lethal dose before detecting the threat.  
+* **Peanut Butter and Grease**  
+  Because roaches crave **fats and proteins**, peanut butter, bacon grease, 
+  or cooking oil are excellent attractants, especially for German cockroaches. 
+  These sticky substances also hold the poison (Borax or baking soda) securely
+  in place, preventing it from spilling. A pea-sized amount of peanut butter 
+  mixed with poison is often more effective than sugar alone.  
+* **Coffee Grounds**
+  While not a primary food source, **wet coffee grounds** attract roaches due 
+  to their strong aroma, moisture content, and residual organic compounds. They 
+  are particularly useful in traps where the goal is to lure roaches into a 
+  container (like a jar with slippery sides) rather than just poisoning them. 
+  Ensure the grounds are fresh; moldy grounds can sometimes repel them.  
+* **Starchy Foods (Bread and Potatoes)**  
+  Roaches have a strong preference for **starches**. A piece of stale bread, 
+  potato peels, or even wallpaper paste can serve as an effective lure. These 
+  are particularly useful if you have an infestation that seems less interested
+  in sweets. Mixing mashed potato with Borax creates a dough-like bait similar 
+  to the sugar method.  
+* **Fruit Scents (Apple and Blueberry)**  
+  Research indicates that **apple and blueberry oils** (or fresh fruit pieces)
+  are highly attractive to German cockroaches, sometimes outperforming standard 
+  commercial lures. Placing a small piece of overripe fruit near your bait 
+  stations can significantly increase trap catches.
 
 ## Lemon Water (for prevention)  
 
