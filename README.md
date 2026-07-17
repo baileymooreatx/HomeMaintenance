@@ -2,6 +2,10 @@
 
 Handy solutions and instructions for tasks around the home  
 
+## Cleaning  
+* [Scouring paste](./ScouringPaste.md)  
+* [Toilet](./Toilet.md)  
+
 ## Projects  
 
 * How to hang a [Blackout Curtain Rod](BlackoutCurtainRod.md)  
@@ -10,5 +14,5 @@ Handy solutions and instructions for tasks around the home
 
 ## Pests  
 
-* I hate tree [roaches](Roaches.md)!
+* I hate [cockroaches](Roaches.md)!
 * Protection from [Rodent](RodentProtection.md) invaders  
