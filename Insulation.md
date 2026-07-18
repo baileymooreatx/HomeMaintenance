@@ -14,6 +14,10 @@
     - [Walls](#walls)
     - [Floors](#floors)
   - [Important Considerations](#important-considerations)
+  - [The R-Value of Air](#the-r-value-of-air)
+    - [Theoretical Maximum (Still Air)](#theoretical-maximum-still-air)
+    - [Practical Reality (Convection)](#practical-reality-convection)
+  - [How Insulation Works](#how-insulation-works)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -120,3 +124,33 @@ account for:
   reduce the effective R-value of installed insulation.
 - **Radiant and Convective Heat:** In some low-density materials, these factors
   can influence performance beyond the standard R-value rating.
+
+## The R-Value of Air
+
+The R-value of air depends entirely on whether it is **still** or **moving**.
+
+### Theoretical Maximum (Still Air)
+
+In a perfect laboratory setting, **dry, absolutely still air** has a theoretical
+R-value of approximately **R-5 to R-6 per inch** (some sources cite **R-3.6**).
+At this state, air is an excellent insulator, comparable to many commercial
+insulation materials.
+
+### Practical Reality (Convection)
+
+In real-world building applications, air cannot be kept perfectly still within a
+cavity. As soon as an air space exceeds about **1/4 to 1/2 inch**, temperature
+differences create **convection currents** (air circulation). These currents
+transfer heat rapidly, drastically reducing the insulating value.
+
+Consequently, the **effective R-value** of a standard air gap in a wall or
+window is typically only **R-1 per inch** (often capped at a total of **R-1 to
+R-2** for the entire gap, regardless of width).
+
+## How Insulation Works
+
+Most insulation materials (fiberglass, foam, cellulose) do not primarily rely on
+their own solid structure for resistance. Instead, they function by **trapping
+pockets of air** to prevent convection. By keeping the air "still" within tiny
+cells or fibers, they allow the air to achieve its higher theoretical R-value
+without the heat loss caused by circulation.
