@@ -46,7 +46,7 @@ mixture remains **dry** to maintain potency.
 ### Instructions
 
 1. **Prepare the Mixture:** In a disposable bowl, combine **equal parts Borax
-   and powdered sugar** (e.g., 1/2 cup of each). If using cocoa powder for extra
+   and powdered sugar** (e.g., ½ cup of each). If using cocoa powder for extra
    attraction, mix it in now. Whisk thoroughly until the color and texture are
    uniform.
 2. **Form the Paste:** Add water **drop by drop** (approx. 2–3 tablespoons
@@ -93,7 +93,7 @@ Boric acid is extremely caustic, so wear gloves and don't breathe the powder.
 5. Use a fork to poke holes in the surface of the ball. The holes should be 
    large enough for the roach to reach in with its head and antennae but 
    small enough so the bait does not spill out.
-6. Place the traps where children and pets won't get to them and they stay 
+6. Place the traps where children and pets won't get to them, and they stay 
    dry.    
    * under the refrigerator  
    * under the sink in the far back corner against the wall  

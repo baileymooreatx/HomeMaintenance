@@ -18,10 +18,12 @@ published by [Elias Yoder](https://www.youtube.com/@EliasYoderAmish).
 
 ## Materials  
 
-* 1 cup Dish liquid
-* 1 cup Warm water
-* 2 tablespoons Table salt
-* 1 tablespoons Baking soda
+| Amount        | Material         |
+|:--------------|:-----------------|
+| 1 cup         | Liquid Dish Soap |
+| 1 cup         | Warm Water       |
+| 2 tablespoons | Table Salt       |
+| 1 tablespoon  | Baking Soda      |
 
 ## Instructions  
 

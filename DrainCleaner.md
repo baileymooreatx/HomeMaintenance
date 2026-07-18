@@ -19,10 +19,11 @@ It works for normal grease and hair clogs and reducing build up inside pipes.
 
 ## Required Materials  
 
-* ½ cup Washing Soda (e.g., Arm & Hammer Detergent Booster and Household 
-  Cleaner Super Washing Soda)  
-* ½ cup Baking Soda (e.g., Arm & Hammer Pure Baking Soda)  
-* ¼ cup Pickling or Coarse Salt (e.g., Morton Canning & Pickling Salt)  
+| Amount | Material                | Example Brand                   |
+|:-------|:------------------------|:--------------------------------|
+| ½ cup  | Washing Soda            | Arm & Hammer Super Washing Soda |
+| ½ cup  | Baking Soda             | Arm & Hammer Pure Baking Soda   |
+| ¼ cup  | Pickling or Coarse Salt | Morton Canning & Pickling Salt) |
 
 Clogged drains will also require  
 * ½ cup of White Distilled Vinegar (used separately)  
