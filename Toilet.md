@@ -58,8 +58,8 @@ The information comes from YouTube video
 published by [Esther Yoder](https://www.youtube.com/@EstherYoderAmish).  
 
 This gets rid of mineral and rust rings around the toilet bowl.  
-Purchase oxalic acid at a hardware store or paint store. It is also called 
-"wood bleach" or "rust remover crystals."  
+[Purchase](https://www.amazon.com/dp/B0C5C3VKXD) oxalic acid at a hardware store
+or paint store. It is also called "wood bleach" or "rust remover crystals."  
 
 ### Instructions  
 
