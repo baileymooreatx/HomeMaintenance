@@ -6,8 +6,8 @@
 2. **Thin gravel/rock layer** (2–3″) for drainage — keep it modest to save space
    and weight
 3. **Organic filler** (cardboard, dead branches, leaves, twigs, straw) — fills
-   the middle and breaks down into compost over time; this is the hugelkultur
-   approach
+   the middle and breaks down into compost over time; this is the 
+   [hügelkultur](./Huegelkultur.md) approach
 4. **Inexpensive topsoil** to fill gaps in the filler
 5. **Potting mix and compost** (roughly 50/50) for the top 8 to 12″ where roots
    actually grow — add perlite for extra drainage
