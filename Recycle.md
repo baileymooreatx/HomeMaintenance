@@ -18,19 +18,20 @@ For items not accepted by curbside recycling
 **The City of Pflugerville Recycle Center** at is a local facility that accepts
 batteries for recycling.
 
-[City of Pflugerville Recycle Center](https://maps.app.goo.gl/U1W73SLMfJppjm7q8)
-15500 Sun Light Near Way
-Pflugerville, TX 78660
+[City of Pflugerville Recycle Center](https://maps.app.goo.gl/U1W73SLMfJppjm7q8)  
+15500 Sun Light Near Way  
+Pflugerville, TX 78660  
 
 Single-use alkaline batteries can generally be disposed of in the regular trash
-in Texas.
+in Texas.  
 
 Additionally, you can drop off **rechargeable** AA and AAA batteries at
-**Batteries Plus** stores or **The Home Depot** (via Call2Recycle bins) in
-the area.
+[Batteries Plus](https://maps.app.goo.gl/qXQ19amWG4b943J69) stores 
+or **The Home Depot** (via Call2Recycle bins) in the area.  
 
-[Home Depot at 13309 N Interstate Hwy 35](https://maps.app.goo.gl/FQKH1GiC95EYoUH96)
-Store #6553, phone **512-989-6650**
+Home Depot - Howard Lane  
+[13309 N Interstate Hwy 35](https://maps.app.goo.gl/FQKH1GiC95EYoUH96)  
+Store #6553, phone **512-989-6650**  
 - ✅ **Rechargeable batteries** (AA, AAA, 9V, lithium-ion, NiMH, NiCd, etc.)  
   free drop-off in the **Call2Recycle bin** near the entrance. Must weigh under
   11 lbs and be under 300 watt-hours.
