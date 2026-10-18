@@ -34,9 +34,9 @@ and patterns to indicate its status:
 | Solid Blue                    | Gateway is in internet backup mode (cellular); will return to fiber when the outage ends.               |
 
 **Note:** Some third-party guides describe the BGW320's healthy state as "solid
-green," but AT&T's official documentation for this model specifies **solid white
-** as the normal online indicator. The green light on the back is the separate
-**Power LED**.
+green," but AT&T's official documentation for this model specifies **solid
+white** as the normal online indicator. The green light on the back is the
+separate **Power LED**.
 
 ## WPS LED
 
